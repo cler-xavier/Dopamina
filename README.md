@@ -9,7 +9,7 @@ IA Generativa HeyGen para sintetização de voz e geração de avatar virtual
 Software CapCut para edição de vídeo
 
 ## 🧐 Processo de Criação
-Por meio d leiutura do livro "Nação Dopamina", da escritora Anna Lembke, tive acesso a um conhecimento que achei importante compartilhar. Pedi ao ChatGPT que me ajudasse a criar um Ebook com as principais lições, dicas e ferramentas mencionadas no livro. Além disso, pedi que criasse uma persona que se interessaria pelas informaçoes contidas neste ebook e um roteiro para a produção do vídeo de divulgação do assunto
+Por meio da leitura do livro "Nação Dopamina", da escritora Anna Lembke, tive acesso a um conhecimento que achei importante compartilhar. Pedi ao ChatGPT que me ajudasse a criar um Ebook com as principais lições, dicas e ferramentas mencionadas no livro. Além disso, pedi que criasse uma persona que se interessaria pelas informaçoes contidas neste ebook e um roteiro para a produção do vídeo de divulgação do assunto
 
 ## 🚀 Resultados
 O vídeo é uma abordagem simples e direta sobre o assunto que pouco se fala mas muito se sente no dia a dia: a compulsão e a dependencia por estímulos e recompensa barata: vício em dopamina.
