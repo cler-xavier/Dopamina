@@ -12,8 +12,9 @@ Software CapCut para edição de vídeo
 Por meio da leitura do livro "Nação Dopamina", da escritora Anna Lembke, tive acesso a um conhecimento que achei importante compartilhar. Pedi ao ChatGPT que me ajudasse a criar um Ebook com as principais lições, dicas e ferramentas mencionadas no livro. Além disso, pedi que criasse uma persona que se interessaria pelas informaçoes contidas neste ebook e um roteiro para a produção do vídeo de divulgação do assunto
 
 ## 🚀 Resultados
-O vídeo é uma abordagem simples e direta sobre o assunto que pouco se fala mas muito se sente no dia a dia: a compulsão e a dependencia por estímulos e recompensa barata: vício em dopamina.
+O vídeo é uma abordagem simples e direta sobre o assunto que pouco se fala mas muito se sente no dia a dia: a compulsão e a dependencia por estímulos e recompensa barata: vício em dopamina. Confira o resultado em https://www.instagram.com/share/BAIhQNhcAA
+
 
 ## 💭 Reflexão (Opcional)
 Foi desafiador colocar em prática o aprendizado e ao mesmo tempo satisfatório ver o quão poderosas essas ferramentas são. 
-Mas o melhor mesmo foi saber que sou capaz de produzir infinitamente mais e melhor tendo as inteligencias aritificiais como copilotos das redes neurais mais perfeitas que existem: as do cérebro humano.
+Mas o melhor mesmo foi saber que sou capaz de produzir infinitamente mais e melhor tendo as inteligencias artificiais como copilotos das redes neurais mais perfeitas que existem: as do cérebro humano.
