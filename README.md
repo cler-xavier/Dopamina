@@ -1,4 +1,4 @@
-Video: O Vício Invisível que Rouba Sua Paz
+## Video: O Vício Invisível que Rouba Sua Paz
 
 ## 📒 Descrição
 Trata-se de um video para conscientizar as pessoas sobre como a dopamina influencia as nossas decisões e comportamentos diários. A exposição a estímulos que liberam dopamina afeta a vida das pessoas, como a compulsão por checar redes sociais, compras on-line, jogos de azar, a própria tecnologia, com suas luzes pulsantes, seu estardalhaço musical, seu conteúdo ilimitado e a promessa, com participação contínua, de recompensas cada vez maiores, podem ser um caminho sem volta para a improdutividade, ansiedade e problemas relacionados a saude mental.
